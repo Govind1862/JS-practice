@@ -5,3 +5,4 @@ function sum(a,b){
 
 const d = sum(1,2);
 console.log(d)
+lets Selection
